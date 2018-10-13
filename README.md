@@ -3,6 +3,8 @@
 
 # PHP_CodeCoverage
 
+**Fork Notes** this fork and release contain a small change for compatibility with PHP 7.2.
+
 **PHP_CodeCoverage** is a library that provides collection, processing, and rendering functionality for PHP code coverage information.
 
 ## Requirements
